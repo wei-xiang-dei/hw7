@@ -8,9 +8,9 @@
 
 
 ## 該怎麼使用
-File -> New Program -> empty MbedOS program  \
-https://os.mbed.com/teams/mbed import進來 official/code/mbed-dsp \ 
-Modify Program's targets.jsons printf_lib value: std("printf_lib": "std") \
+File -> New Program -> empty MbedOS program    
+https://os.mbed.com/teams/mbed import進來 official/code/mbed-dsp    
+Modify Program's targets.jsons printf_lib value: std("printf_lib": "std")   
 https://os.mbed.com/teams/ST/code/DISCO_L475VG_IOT01-Sensors-BSP/ 也要import進陀螺儀和加速度計的header檔
 
 
